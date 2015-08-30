@@ -1,6 +1,6 @@
 {
   "name": "harp",
-  "version": "0.17.0",
+  "version": "0.17.1",
   "description": "Static web server with built in preprocessing",
   "author": "Brock Whitten <brock@chloi.io>",
   "contributors":
@@ -33,12 +33,12 @@
     "url": "https://github.com/sintaxi/harp.git"
   },
   "dependencies": {
-    "terraform": "0.11.0",
-    "commander": "2.0.0",
+    "terraform": "stillmatic/terraform",
+    "commander": "2.8.1",
     "connect": "2.9.0",
-    "async": "0.2.9",
-    "fs-extra": "0.18.2",
-    "mime": "1.2.11",
+    "async": "1.4.2",
+    "fs-extra": "0.24.0",
+    "mime": "1.3.4",
     "download-github-repo": "0.1.3",
     "envy-json": "0.2.1"
   },
